@@ -1,15 +1,5 @@
 
-<<<<<<< HEAD
 # Clan Commands (`/clan`)
-=======
-# KOT4 (Kidneys of Titanium Quatro) Bot - Command Documentation
-
-This document provides an in-depth breakdown of all commands available in the KOT4 bot. The bot features a clan system where users can create, join, and manage clans, as well as apply for jobs within their clans. Below are the available commands and their descriptions.
-
----
-
-## Clan Commands (`/clan`)
->>>>>>> 1ff3300f94bb1278853d172db93502bbd39c9841
 
 ### 1. `/clan create`
 **Description:** Creates a new clan. Clans are required for most commands, so this is a good place to start.
