@@ -54,6 +54,7 @@ This document provides an in-depth breakdown of all commands available in the KO
 **Permissions:** General of the clan only.
 
 ---
+## Clan Army Commands (`/clan army`)
 
 ### 6. `/clan army send-force`
 **Description:** Stations troops on a specific tile. Useful for defending your territory or preparing for an invasion. Can only be used on your own tiles.
@@ -117,6 +118,8 @@ This document provides an in-depth breakdown of all commands available in the KO
 **Permissions:** General and Lieutenant of the clan only.
 ---
 
+## Clan Tile Commands (`/clan tile`)
+
 ### 13. `/clan tile claim`
 **Description:** Claims an unoccupied tile for the clan.
 
@@ -143,12 +146,30 @@ This document provides an in-depth breakdown of all commands available in the KO
 
 **Permissions:** General, Lieutenant, and Mechanic only.
 ---
+## Clan Mechanic Commands (`/clan army`)
 
 ### 16. `/clan mechanic upgrade`
 **Description:** Allows a **mechanic** job role to upgrade a troop type, increasing its strength.
 
 **Permissions:** Mechanic only.
 ---
+
+## Clan Talent Point Commands (`/clan talent_points`)
+
+### 17. `/clan talent_points claim`
+**Description:** Claim talent points for your clan. Your contribution will be included in the calculation that gives out talent points at 12:00PM GMT.
+
+---
+
+### 18. `/clan talent_points use`
+**Description:** Opens the menu for using talent points to upgrade your clan. Talent points can be spent on attack bonuses, defense bonuses, and tax bonuses.
+
+**Options:**
+- `tile` *(String, Required)*: Tile coordinates to upgrade. (must be your clans tile)
+
+**Permissions:** General and Lieutenant only.
+---
+
 
 ## Job Commands (`/job`)
 
