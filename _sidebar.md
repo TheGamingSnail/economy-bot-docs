@@ -1,0 +1,11 @@
+<!-- Side bar config-->
+KOT4 (Kidneys Of Titanium Quatro)
+- [Clan commands](README.md)
+- [Clan army commands](clan_army.md)
+- [Clan tile commands](clan_tile.md)
+- [Talent point commands](talent_points.md)
+- [Miscellaneous commands](misc.md)
+- [Job commands](job.md)
+- [Clan buffs](buffs.md)
+- [Automated features](automated.md)
+- [Notes](notes.md)

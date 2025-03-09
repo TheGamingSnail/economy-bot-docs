@@ -20,10 +20,20 @@
       themeColor: '#3F51B5',
     };
     window.$docsify = {
-    requestHeaders: {
-      'cache-control': 'no-cache'
+      loadSidebar: true,
+      subMaxLevel: 2
     }
-  };
+    window.$docsify = {
+        enableSidebarCollapse: true
+    };
+    window.$docsify = {
+    loadSidebar: true,
+    alias: {
+      '/.*/_sidebar.md': '/_sidebar.md',
+    },
+    subMaxLevel: 3,
+  }
+    
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
