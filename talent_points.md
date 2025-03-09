@@ -1,7 +1,10 @@
 
 
 # Clan Talent Point Commands (`/clan talent_points`)
+---
+Talent points are given out at 12:00PM GMT based on member participation in your clan(specifically running the `/clan talent__points claim` command). Talent points can be used to buy upgrades for your clan, such as attack / defense bonuses, or tax bonuses.
 
+---
 ### 1. `/clan talent_points claim`
 **Description:** Claim talent points for your clan. Your contribution will be included in the calculation that gives out talent points at 12:00PM GMT.
 
