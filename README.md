@@ -283,10 +283,72 @@ This document provides an in-depth breakdown of all commands available in the KO
 
 ---
 
+## Clan Buffs and Bonuses
+
+### Biome Buffs
+- **Plains**
+  - `APC`: +25%
+  - `Grenadier`: +25%
+
+- **Forest**
+  - `Tank`: -50%
+  - `Artillery`: -15%
+  - `Grenadier`: -5%
+  - `Rifleman`: -10%
+  - `Bayonet`: +25%
+
+- **Desert**
+  - `Tank`: -25%
+  - `APC`: -10%
+  - `Artillery`: +15%
+  - `Grenadier`: -5%
+  - `Bayonet`: +5%
+
+- **Castle**
+  - `Tank`: +50%
+  - `APC`: +10%
+  - `Artillery`: +50%
+  - `Grenadier`: +25%
+  - `Rifleman`: -25%
+  - `Bayonet`: -50%
+  - **Defense Multiplier:** x1.5
+
+### Troop Buffs
+- `Rifleman`: Default Strength
+- `Bayonet`: Default Strength
+- `Suicide Bomber`: High Strength (x3)
+- `Grenadier`: Medium Strength (x3)
+- `Tank`: High Strength (x5, Size: 3)
+- `APC`: Medium Strength (x3, Size: 3)
+- `Artillery`: Low Strength (x2, Size: 2)
+
+### Ideology Bonuses
+- **Democracy**
+  - `Tile Income`: +5%
+  - `Defense`: +5%
+  - `Attack`: -5%
+
+- **Communism**
+  - `Tile Income`: +20%
+  - `Defense`: Neutral
+  - `Attack`: -10%
+
+- **Authoritarian**
+  - `Tile Income`: Neutral
+  - `Defense`: -5%
+  - `Attack`: +15%
+
+- **Monarchy**
+  - `Tile Income`: +25%
+  - `Defense`: -10%
+  - `Attack`: -10%
+
+---
 ## Notes
 - Most commands require the user to be in a clan.
 - Only the general can manage job applications and withdraw clan funds.
 - Tile ownership and battle mechanics follow predefined rules.
+- Currently the bot can only be used in the KOT4 discord server.
 
 This documentation provides a complete overview of the KOT4 bot's functionality.
 
