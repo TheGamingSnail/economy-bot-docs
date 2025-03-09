@@ -19,7 +19,11 @@
     window.$docsify = {
       themeColor: '#3F51B5',
     };
-    
+    window.$docsify = {
+    requestHeaders: {
+      'cache-control': 'no-cache'
+    }
+  };
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
