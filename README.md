@@ -216,6 +216,8 @@ This document provides an in-depth breakdown of all commands available in the KO
 ### 22. `/clan misceallaneous stats_menu`
 **Description:** Displays game statistics, including unit strength, prices, and terrain bonuses.
 
+--- 
+
 ### 23. `/clan settings color`
 **Description:** Changes the clans color on the map to a new color.
 
@@ -223,6 +225,7 @@ This document provides an in-depth breakdown of all commands available in the KO
 - `new-color` *(String, Required)*: The new hex color you want to be displayed on the map.
 
 **Permissions:** General of the clan only.
+
 ---
 
 ## Job Commands (`/job`)
