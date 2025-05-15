@@ -20,6 +20,12 @@
   - `Grenadier`: -5%
   - `Bayonet`: +5%
 
+- **Snow**
+  - `Rifleman`: -15%
+  - `Bayonet`: -15%
+  - `Suicide Bomber`: -15%
+  - `Grenadier`: -15%
+
 - **Castle**
   - `Tank`: +50%
   - `APC`: +10%
@@ -28,6 +34,12 @@
   - `Rifleman`: -25%
   - `Bayonet`: -50%
   - **Defense Multiplier:** x1.5
+
+- **Bridge**
+  - `Tank`: -50%
+  - `Apc`: -30%
+  - `Artillery`: -30%
+  - **Defense Multiplier:** x1.2
 
 ### Troop Buffs
 - `Rifleman`: Default Strength
