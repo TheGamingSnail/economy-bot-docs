@@ -6,7 +6,7 @@ Talent points are given out at 12:00PM GMT based on member participation in your
 
 ---
 ### 1. `/clan talent_points claim`
-**Description:** Claim talent points for your clan. Your contribution will be included in the calculation that gives out talent points at 12:00PM GMT.
+**Description:** Claim talent points for your clan. Your contribution will be included in the calculation that gives out talent points at 12:00PM GMT. Each day a clan may receive a maximum of 5 talent points, which is calculated based on clan member activity ( 5 * (amount of members who claimed points / total amount of members)).
 
 ---
 
