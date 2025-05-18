@@ -2,7 +2,7 @@
 # Clan Tile Commands (`/clan tile`)
 
 ### 1. `/clan tile claim`
-**Description:** Claims an unoccupied tile for the clan.
+**Description:** Claims an unoccupied tile for the clan. Has a 4 hour cooldown. 
 
 **Options:**
 - `tile` *(String, Required)*: Tile coordinates (e.g., `b3`).
@@ -38,5 +38,12 @@
 - `tile` *(String, Required)*: Tile coordinates to get the stats of. 
 
 **Permissions:** Anyone, however stats may differ between generals / non generals.
+
+---
+
+### 5. `/clan tile collect-taxes`
+**Description:** Collects taxes from all your tiles. Has a 12 hour cooldown. 
+
+**Permissions:** General, Lieutenant.
 
 ---
