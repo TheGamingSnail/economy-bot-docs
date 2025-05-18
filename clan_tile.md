@@ -12,7 +12,7 @@
 ---
 
 ### 2. `/clan tile scout`
-**Description:** Scouts an enemy tile (Only scouts can do this). Has a 50% fail rate, at which point the clan receiveds a 12 hour cooldown before any scouts can scout again.
+**Description:** Scouts an enemy tile (Only scouts can do this). Has a 50% fail rate, at which point the clan receives a 12 hour cooldown before any scouts can scout again.
 
 **Options:**
 - `tile` *(String, Required)*: Tile coordinates to scout.
